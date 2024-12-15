@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "Deruwan Chalithanga",
+  profile: "/profile.png",
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  description:
+    "My name is Deruwan Chalithanga. Driven Associate Software Engineer with a passion for web development and cloud technologies. Skilled in PHP/Laravel, React, Node.js, and MySQL, with a strong focus on deploying scalable, high-performance solutions. Currently honing expertise in AWS and cPanel to optimize cloud infrastructure and streamline operations. Eager to advance in DevOps, bringing a hands-on approach to managing large-scale applications, enhancing system performance, and fostering seamless integrations. Looking to contribute innovative solutions and grow within the dynamic field of cloud and software engineering.",
+  email: "deruwan1000@gmail.com",
+  phone: "+9477-913-8787",
+  address: "115/5 Rukmale,Pannipitiya",
+  github: "https://github.com/dderuwan",
+  facebook: "https://www.facebook.com/deruwan.chalithange",
+  linkedIn: "https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/",
+  stackOverflow: "https://stackoverflow.com/users/22321929/deruwan-chalithanga",
+  resume:
+    "https://drive.google.com/file/d/13EFGbc1oA_08P8fvPWikJmt-GOxAgjgj/view?usp=sharing",
+};
+
