@@ -12,6 +12,6 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/",
   stackOverflow: "https://stackoverflow.com/users/22321929/deruwan-chalithanga",
   resume:
-    "https://drive.google.com/file/d/13EFGbc1oA_08P8fvPWikJmt-GOxAgjgj/view?usp=sharing",
+    "https://drive.google.com/file/d/1Fxt7AhkuzFUwB7b7QYIQ7G2GwIizFsr-/view?usp=sharing",
 };
 
